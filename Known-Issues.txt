@@ -1,4 +1,4 @@
 Known Issues:
 
-- Sample files show up and can sometimes be selected to keep over full movie. For now, search "sample" in your drives and delete them.
+- Sample files may show up and can sometimes be selected to keep over full movie. For now, search "sample" in your drives and delete them.
 - False positives show sometimes without 2x folders. you can tell this because it return's a "[!] File path not found or unreachable on disk:" error.
