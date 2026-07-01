@@ -1,0 +1,4 @@
+Known Issues:
+
+- Sample files show up and can sometimes be selected to keep over full movie.
+- 
