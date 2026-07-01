@@ -1,4 +1,5 @@
-DUPLICATRR
+<img width="2816" height="1536" alt="Duplicatrr Logo Transparent" src="https://github.com/user-attachments/assets/a6a22b78-aca2-4f0e-9171-32f69bd846f2" />
+
 
 A smart, interactive PowerShell utility that connects to your Plex Media Server API to find duplicate movies, compare their quality metrics, and permanently purge the inferior versions directly from your local storage drives to reclaim wasted disk space.
 
