@@ -1,3 +1,4 @@
 Known Issues:
 - Bulk Deletion may delete movies that there is only 1 copy of, if it lists the same path twice. 
 - False positives show sometimes without 2x folders. you can tell this because it return's a "[!] File path not found or unreachable on disk:" error.
+- Extra or Special Episodes for TV Shows may be prioritised over the actual episode file.
